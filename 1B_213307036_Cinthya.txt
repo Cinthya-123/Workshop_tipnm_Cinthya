@@ -1,0 +1,8 @@
+git commit -m "first commit"1B_213307036_Devy
+Nama Lengkap: Cinthya Devy S.
+NPM         :213307036
+Kelas       : 1B
+Keinginan setelah lulus kuliah dari Prodi TI PNM:
+- Bekerja di Perusahaan IT
+- Melanjutkan kuliah S1
+- Membahagiakan kedua orang tua
